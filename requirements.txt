@@ -1,0 +1,7 @@
+Django
+mysqlclient
+djangorestframework
+django-rest-swagger
+drf-yasg
+django-rest-registration
+django-cors-headers
