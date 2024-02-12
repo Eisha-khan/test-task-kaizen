@@ -5,3 +5,4 @@ django-rest-swagger
 drf-yasg
 django-rest-registration
 django-cors-headers
+django-filter
